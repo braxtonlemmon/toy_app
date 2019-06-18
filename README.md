@@ -1,24 +1,6 @@
-# README
+Simple application built following The Ruby on Rails Tutorial - [Chapter 2](https://www.railstutorial.org/book/toy_app#code-toy_user_presence_valications)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Main takeaways:
+- Rails scaffolding automatically generates code that makes it relatively easy to create an application quickly
+- Rails uses a Model-View-Controller structure to manage data
+- Rails applications are built with a RESTful architecture. The REST actions are associated with HTTP routes.
